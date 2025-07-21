@@ -56,3 +56,5 @@ while True:
         print("Byla zadána neplatná volba. Prosím, zvolte možnost 1, 2, 3 nebo 4.")
 
 #nyní vloženo do REPOZITÁŘE
+# zkouška úpravy soubory v globálním repozitáři
+
