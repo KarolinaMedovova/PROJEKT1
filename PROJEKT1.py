@@ -28,16 +28,6 @@ def pridat_ukol():
     print(" ")
     hlavni_menu()
 
-"""
-correct_password = "tajneheslo"
-user_input = input("Zadejte heslo: ")
-
-while user_input != correct_password:
-    print("Nesprávné heslo, zkuste to znovu.")
-    user_input = input("Zadejte heslo: ")
-
-print("Přihlášení úspěšné.")
-"""
 
 def zobrazit_ukoly():
     print(f"{ukoly}")
